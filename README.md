@@ -14,11 +14,17 @@ https://raw.githubusercontent.com/ragini30/Networks-Homework/main/phase1.csv
 
 # 使用している技術
 1. Centrality Analysis
+
   1.1. Closeness Centrality
+
   1.2. Betweenness Centrality
+
   1.3. Eigenvector Centrality
+
   1.4. In-degree Centrality
+
   1.5. Out-degree Centrality
+
   1.6. Katz Centrality 
 2. Graph Clustering
   2.1. Louvain method
