@@ -3,7 +3,7 @@ Streamlit Sample App
 
 # プロジェクトの概要（アプリの目的、使用技術など）
 グラフデータを可視化するWebアプリです。
-
+下記のように有向グラフを隣接マトリックス形式で扱うことを仮定します。
 https://raw.githubusercontent.com/ragini30/Networks-Homework/main/phase1.csv
 
 # 使用方法
