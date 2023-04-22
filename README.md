@@ -13,21 +13,16 @@ https://raw.githubusercontent.com/ragini30/Networks-Homework/main/phase1.csv
 4. Select Clustering Method : グラフクラスタリングのいずれかの手法を選択します。
 
 # 使用している技術
-1. Centrality Analysis
+### 1. Centrality Analysis
+1. Closeness Centrality
+2. Betweenness Centrality
+3. Eigenvector Centrality
+4. In-degree Centrality
+5. Out-degree Centrality
+6. Katz Centrality 
 
-  1.1. Closeness Centrality
-
-  1.2. Betweenness Centrality
-
-  1.3. Eigenvector Centrality
-
-  1.4. In-degree Centrality
-
-  1.5. Out-degree Centrality
-
-  1.6. Katz Centrality 
-2. Graph Clustering
-  2.1. Louvain method
-  2.2. Girvan-Newman method
-  2.3. Fast Greedy method
-  2.4. Label Propagation method
+### 2. Graph Clustering
+1. Louvain method
+2. Girvan-Newman method
+3. Fast Greedy method
+4. Label Propagation method
